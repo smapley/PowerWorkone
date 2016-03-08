@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:coolswitch="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <com.serchinastico.coolswitch.TargetFrameLayout
+        android:id="@+id/layout_bg"
+        android:layout_width="match_parent"
+        android:layout_height="300dp">
+
+        <LinearLayout
+            android:id="@+id/disabled_view_foo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#FFFFFF"
+            android:orientation="vertical" />
+
+        <LinearLayout
+            android:id="@+id/enabled_view_foo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ff1a88e5"
+            android:orientation="vertical" />
+
+    </com.serchinastico.coolswitch.TargetFrameLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_alignTop="@+id/layout_bg"
+        android:layout_alignBottom="@+id/layout_bg"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/text_view_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#333"
+                android:text="Connect Contacts"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="20dp"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:textColor="#333"
+                android:text="All your phone Contacts will be automatically added to your friends list."
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_horizontal" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal">
+
+            <com.serchinastico.coolswitch.CoolSwitch
+                android:id="@+id/cool_switch_foo"
+                android:layout_height="35dp"
+                android:layout_width="60dp"
+                android:layout_marginLeft="50dp"
+                coolswitch:disabledView="@id/disabled_view_foo"
+                coolswitch:enabledView="@id/enabled_view_foo" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</RelativeLayout>
+
+   
+    

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_blue">
+
+    <LinearLayout
+        android:id="@+id/task_lin1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true">
+
+
+        <TextView
+            android:id="@+id/task_yue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/task_yue"
+            android:layout_margin="10dp"
+            android:textSize="20sp"
+            android:layout_gravity="center_vertical"
+            android:textColor="@color/white" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/task_tab" />
+
+        <TextView
+            android:id="@+id/task_ri"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/task_ri"
+            android:layout_margin="10dp"
+            android:textSize="20sp"
+            android:layout_gravity="center_vertical"
+            android:textColor="@color/white" />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/task_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2015 - 04"
+        android:textSize="20sp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/task_lin1"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/white"/>
+</RelativeLayout>

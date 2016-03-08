@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/exploded-aar/Okay/ProgressButton/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea0313b289dcf92a051cf46cc398cb7773f57ac">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/pre-dexed/debug/classes-720190fc7020428eeee6195e980f5f2e8701e4ec.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/exploded-aar/Okay/side-menu/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="37347680709e2a0dc00034c594beb650fd1d74e3">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/pre-dexed/debug/classes-3e03fdc0ca84ac7d330f81e37ec0af89eadc7825.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-12dabbde5781781d90b17de4e0b60892f83d21b0.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/exploded-aar/Okay/euclid/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ceebeadf20c2d404f1947527bc264049ea68a91">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/pre-dexed/debug/classes-a9867089b9b8fdcb864c1845db3ba862adb7a52c.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/pre-dexed/debug/picasso-2.5.0-afc7c02abb54421ffae88eb17dca139419c873b0.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/pre-dexed/debug/classes-656105752843b133cd84d25fd213927c743bd351.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/exploded-aar/Okay/coolswitch/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fd74b359f10e77880e992c93a536a6b28faf1a30">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/pre-dexed/debug/classes-7d29481c1cccdd057978a973524841ee1b25d307.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/libs/fastjson-1.1.22-sources.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="af1f8831b647891784eacad70013c32872210ee6">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/pre-dexed/debug/fastjson-1.1.22-sources-28686f6cdc89e1abd1f725342d8fc14c6860e87b.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/exploded-aar/Okay/pulltorefresh/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a96fe9c3bda4099e664b6997755b2013404ab8f7">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/pre-dexed/debug/classes-8d18c066aa3e31481bb1a0c19583000af6d19439.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-d45e22bb05e5435405f437472197e020f35aa178.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/libs/fastjson-1.1.22.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1744ecd7f8716ac83381f2b8f5bd002365ccdca9">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/pre-dexed/debug/fastjson-1.1.22-9cee91bb42ce00b48092721ef905e0d9de34c60f.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/pre-dexed/debug/library-2.4.0-e4ecd12b6e1e71f894e73b16b53e455d8c221a9d.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/exploded-aar/com.github.ozodrukh/CircularReveal/1.0.5/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="990aaea33c54b40347e1f6243dbf4ae8f1d71d3f">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/pre-dexed/debug/classes-c0a0651fbe7871f36440922bb1366594d7fb1a66.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/pre-dexed/debug/classes-813f39dd253f6544fdb3f73f14616139c0c9a94e.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/exploded-aar/com.nhaarman.listviewanimations/lib-core/3.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="acf66033b1418ccf9e15c8e77750981e4809c4ea">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/Okay/app/build/intermediates/pre-dexed/debug/classes-d5e4b977d7b7493898ab221e2a64bf857c28610a.jar" />
+    </item>
+
+</items>
